@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### Come to [my velog]("https://velog.io/@junsugi", "Go junsugi velog !") 
 
 <!--
 **junsugi/junsugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
