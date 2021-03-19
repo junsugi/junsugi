@@ -6,7 +6,7 @@
 - 📫 How to reach : wnstjrl96@naver.com
 - ⚡ Fun fact: *I am studying in University because still I am short of 1 creadit* 🤣🤣.
 - 🎼 YM playlist : *[Let's go listen 💁‍♂️🤷‍♂️](https://youtu.be/lCdQcZDDdOs)*
-- 📒 Reading : *언어의 온도 <이기주 저>*
+- 📒 Reading : *읽을책 찾는중...*
 
 <hr>
 <br>
