@@ -2,7 +2,7 @@
 ### Hi there 👋
 #### Come to [my velog](https://velog.io/@junsugi) 
 
-- 🔭 I’m currently working on *Game studio as a server engineer.*
-- 🌱 I’m currently learning *Java(Spring-boot), node.js(express.js), React.js.*
+- 🔭 I’m currently wanderer in Seoul.*
+- 🌱 I’m currently used *Java(Spring-boot), node.js(Typescript), Next.js.*
 - 📫 How to reach : wnstjrl96@naver.com
-- 🎼 YM playlist : *[Let's go listen 💁‍♂️🤷‍♂️](https://youtu.be/lCdQcZDDdOs)*
+- 🎼 YM playlist : *[Let's go listen 💁‍♂️🤷‍♂️](https://www.youtube.com/watch?v=wDfqXR_5yyQ)*
