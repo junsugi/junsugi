@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Junsugi's%20Profile&fontSize=40)
-### Hi there 👋
+### Hi there 👋👋
 #### Come to [my velog](https://velog.io/@junsugi) 
 
 - 🔭 I’m currently wanderer in Seoul.*
