@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Junsugi's%20Profile&fontSize=40)
 
 <a href="https://velog.io/@junsugi" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=flat-square&logo=V&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GMAIL-ba3e4d?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:junesuk96@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ba3e4d?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ## Tech Stack 🖥
 ### Server
