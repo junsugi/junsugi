@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Junseok 🙋🏻‍♂️, a full-time backend developer, since 2019 🚀</div>
+### <div align="center">I'm Junseok 🙋🏻‍♂️, a full-time backend developer, since 2020 🚀</div>
 
 <br/>
   
