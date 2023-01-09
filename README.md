@@ -9,10 +9,10 @@
 
 <br/>
   
-- 🔭 I’m currently working on [Tenqube](https://www.tenqube.com/)  
-- 🌱 I’m currently learning GitOps Infrastructure.  
-- 🔥 I'm currently interested in Flutter.
-- 🎵 My favorite singer is [Valley](https://www.youtube.com/channel/UCP29XySk8V2LDbLa_zc4IYw)
+- 🔭 I’m currently [baeksu](https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/deadbeat) 
+- 🌱 I’m currently learning [Domain Driven Development](https://ko.wikipedia.org/wiki/%EB%8F%84%EB%A9%94%EC%9D%B8_%EC%A3%BC%EB%8F%84_%EC%84%A4%EA%B3%84)
+- 🔥 I'm currently interested in working on Australia backend developer.
+- 🎵 My favorite singer is [NewJeans](https://www.youtube.com/channel/UCMki_UkHb4qSc0qyEcOHHJw)
   
 <br/>  
 
