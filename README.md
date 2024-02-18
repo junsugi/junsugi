@@ -9,10 +9,10 @@
 
 <br/>
   
-- 🔭 I’m currently work as Kitchen hand.
-- 🌱 I’m currently learning cook for earning money.
-- 🏠 I'm currently living in Perth, Australia.
-- 🔥 I'm currently interested in working as Australia backend developer.
+- 🔭 I’m currently work as Meat Packer in Harvey Beef.
+- 🌱 I’m currently learning how to draw and study English.
+- 🏠 I'm currently living in Australind, Australia.
+- 🔥 I'm currently interested in focusing on getting a PR visa in Australia
 - 🎵 My favorite singer is [NewJeans](https://www.youtube.com/channel/UCMki_UkHb4qSc0qyEcOHHJw)
   
 <br/>  
