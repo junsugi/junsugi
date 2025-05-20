@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning how to draw and study English.
 - 🏠 I'm currently living in Australind, Australia.
 - 🔥 I'm currently interested in focusing on getting a PR visa in Australia
-- 🎵 My favorite singer is [NewJeans](https://www.youtube.com/channel/UCMki_UkHb4qSc0qyEcOHHJw)
+- 🎵 My favorite singer is [Nmixx][(https://www.youtube.com/watch?v=3GWscde8rM8))]
   
 <br/>  
 
