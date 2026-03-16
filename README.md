@@ -9,11 +9,11 @@
 
 <br/>
   
-- 🔭 I’m currently work as Meat Packer in Harvey Beef.
-- 🌱 I’m currently learning how to draw and study English.
-- 🏠 I'm currently living in Australind, Australia.
-- 🔥 I'm currently interested in focusing on getting a PR visa in Australia
-- 🎵 My favorite singer is [Nmixx](https://www.youtube.com/watch?v=3GWscde8rM8)
+- 🔭 I’m currently work as Indie Game Developer.
+- 🌱 I’m currently learning how to use Unity and speak Mandarin.
+- 🏠 I'm currently living in Wonju, South Korea
+- 🔥 I'm currently interested in making own games during 3 months
+- 🎵 My favorite singer is [Official髭男dism](https://www.youtube.com/@officialhigedandism)
   
 <br/>  
 
