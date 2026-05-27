@@ -67,15 +67,3 @@
   <a href="https://velog.io/@junsugi" target="_blank"><img src="https://img.shields.io/badge/VELOG-3eb489?style=for-the-badge&logo=V&logoColor=white"/></a>
   <a href="mailto:junesuk96@gmail.com"><img src="https://img.shields.io/badge/GMAIL-ba3e4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>  
- 
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=junsugi&show_icons=true&theme=radical" align="center" /></div>  
-<br/>   
-
-## My Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=junsugi&theme=gruvbox&row=1&column=7"/>
-</div>
