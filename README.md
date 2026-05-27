@@ -5,14 +5,14 @@
 </div>  
   
 
-### <div align="center">I'm Junseok 🙋🏻‍♂️, a full-time backend developer, since 2020 🚀</div>
+### <div align="center">I'm Junseok 🙋🏻‍♂️, a full-time backend Engineer, since 2020 🚀</div>
 
 <br/>
   
-- 🔭 I’m currently work as Indie Game Developer.
-- 🌱 I’m currently learning how to use Unity and speak Mandarin.
+- 🔭 I’m currently work as Backend Engineer.
+- 🌱 I’m currently learning how to speak Mandarin.
 - 🏠 I'm currently living in Wonju, South Korea
-- 🔥 I'm currently interested in making own games during 3 months
+- 🔥 I'm currently interested in finding a way to live in Seoul.
 - 🎵 My favorite singer is [Official髭男dism](https://www.youtube.com/@officialhigedandism)
   
 <br/>  
